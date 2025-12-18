@@ -1,4 +1,7 @@
 # EV_DATA_ANALYSIS
+
+Here is the Google Colab ( Jupyter Notebook ) link =
+https://colab.research.google.com/drive/1G_T25hFMZt4o-5qiCVdR78WkZ-dYS95c?usp=sharing
 "Electric Vehicle Registration Analysis in Washington State, USA. This project explores trends and patterns in EV registration data and builds a linear regression model to predict electric range. 📊🚗"
 
 Electric Vehicle Registration Analysis
